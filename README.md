@@ -13,7 +13,7 @@
 - 📊 Actively preparing for **Data Analyst** roles — DSA, SQL, Power BI, and core CS fundamentals
 - 💼 Completed a Data Analytics internship at **Alfido Tech**, delivering 3 end-to-end analytics projects
 - 🌱 Long-term goal: transition from Data Analyst → **Data Scientist**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **rohit9928720singh@gmail.com**
 - ⚡ Fun fact: I like breaking down messy datasets until they tell a clean story
 
 ---
@@ -79,7 +79,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="inkedin.com/in/rohit-singh-r6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
